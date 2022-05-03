@@ -13,7 +13,8 @@
 
 **Tech Stack**
 -  Python - Pandas | NumPy | keras | pytorch | Scikit-Learn | Matplotlib | Seaborn | NLTK
--  SQL | Tableau
+-  SQL - MySQL | PostgreSQL
+-  Tableau
 -  R (Statistics) - stargazer | dplyr | ggplot2
 
 
